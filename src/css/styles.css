@@ -46,9 +46,6 @@ body {
 }
 
 
-
-
-
 /*Картка країни */
 .country-container {
   width: 50%;
@@ -66,11 +63,11 @@ body {
 }
 
 .country-info__title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 32px;
 }
 
 span {
-  font-weight: bold;
+  font-weight: 700;
 }
 
